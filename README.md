@@ -102,13 +102,4 @@ Created an operational intelligence platform that converts inventory data into p
 
 ---
 
-# Contact
-
-- **Portfolio:** https://aaje1.github.io/my-portfolio/
-- **GitHub:** https://github.com/aaje1
-
-> Feel free to connect for Product Management, AI Product, and Business Strategy opportunities.
-
----
-
 © 2026 Alward Jevon Putra. All rights reserved.
