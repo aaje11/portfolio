@@ -102,4 +102,4 @@ Created an operational intelligence platform that converts inventory data into p
 
 ---
 
-© 2026 Alward Jevon Putra. All rights reserved.
+© 2026 Alward Jevon.
