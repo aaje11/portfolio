@@ -1,4 +1,4 @@
-# 👋 Alward Jevon Putra
+# 👋 Alward Jevon
 
 **AI Product Manager | Product Strategy | Product Intelligence | B2G Growth**
 
